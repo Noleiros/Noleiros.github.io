@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kombucha
-permalink: /Kombucha/
+permalink: /kombucha/
 ---
 
 This is the page for kombucha growing
